@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Models;
 
-namespace WebApplication2.Views.Movies
+namespace WebApplication2.Controllers
 {
     public class MoviesController : Controller
     {
